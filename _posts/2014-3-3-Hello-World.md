@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: School for Poetic Computation: day 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+October 1st is day 1 of [SFPC](sfpc.io). I'll be spending the next 10 weeks in the Lower East Side of Manhattan with 15 other amazing people learning and creating. Like all good pirates, I feel like I ought to go into this journey with a few goals.
 
 ![_config.yml](https://lh3.googleusercontent.com/-l4fS68kOz6o/VCNpDUCFoXI/AAAAAAAAYB4/R3Yq0vtM0P8/w1057-h595-no/IMG_20140924_172637393.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
