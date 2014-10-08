@@ -6,7 +6,7 @@ permalink: /about/
 
 ##### More information
 
-[Resume](https://drive.google.com/file/d/0B6GgLflL1CCmNkt6QXFnYkQ4ZHM/edit)
+[Resume](http://bit.ly/ZQE66V)
 
 ##### Contact me
 
