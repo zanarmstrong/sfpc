@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generating Images That Look Like Rain
+title: Looks Like Rain
 ---
 
 On Monday Ramsey asked us to go to [Great Art Twitter bot](https://twitter.com/greatartbot), choose an image, and describe in text how you might recreate it.  
