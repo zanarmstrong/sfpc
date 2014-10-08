@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+##### More information
 
-### More Information
+[Resume](https://drive.google.com/file/d/0B6GgLflL1CCmNkt6QXFnYkQ4ZHM/edit)
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
+##### Contact me
 
 [zanarmstrong.blog@gmail.com](mailto:zanarmstrong.blog@gmail.com)
