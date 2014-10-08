@@ -6,7 +6,7 @@
 name: Zan Armstrong
 
 # Short bio or description (displayed in the header)
-description: I make sense out of data.
+description: Writing about 10 weeks of the School for Poetic Computation.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/7397271?v=2&u=e66dbd8052df20f0977d2beab18470901a8fbef6&s=140
@@ -17,17 +17,13 @@ avatar: https://avatars3.githubusercontent.com/u/7397271?v=2&u=e66dbd8052df20f09
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
   email: 
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
-  pinterest: 
+  github: zanarmstrong
+  linkedin: zan-armstrong
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: zanstrong
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
