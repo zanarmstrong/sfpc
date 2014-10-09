@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 6: A Few Thoughts
+title: Day 6 - A Few Thoughts
 ---
 
 ##### My Mom Was Right: Eniac was Pretty Awesome
