@@ -3,13 +3,15 @@ layout: post
 title: Day 6: A Few Thoughts
 ---
 
+##### My Mom Was Right: Eniac was Pretty Awesome
+
+When I was in third grade we chose an inventor and gave a report on the person and invention to the class. I really wanted to do the Wright Brothers, but my Mom strongly encouraged me to do Eniac instead. In particular, this means I could call her friend from graduate school at the University of Pennsylvania and talk to a real person who had helped build it. At the time, I hated making phone calls to anyone, even my grandparents who I loved and who baked me cookies. So, the idea interviewing a stranger was not something I was super excited about. 
+
+Ramsey did a quick history of computing today: from Lovelace to Swift. Looking back, my Mom was right and the Eniac was pretty damn cool. 
+
 ##### There Really Is Stuff Between Javascript and Binary!
 
 Loved Ramsey's class today. Best of all, we saw how C and javascript could be compiled into Assembly code, and that we could actually look at the Assembly code itself. It was amazing to see this - to actually see it - on the screen. It felt similar to the feeling of wow from seeing Zach save an image in raw format and that data as sound in another program. I'm very much looking forward to connecting the dots between the software I write and actual hardware of the computer in the coming weeks. 
-
-##### My Mom Was Right: Eniac was Pretty Awesome
-
-When I was in third grade we chose an inventor and gave a report on the person and invention to the class. I really wanted to do the Wright Brothers, but my Mom strongly encouraged me to do Eniac instead. In particular, this means I could call her friend from graduate school at the University of Pennsylvania and talk to a real person who had helped build it. At the time, I hated making phone calls to anyone, even my grandparents who I loved and who baked me cookies. So, the idea interviewing a stranger was not something I was super excited about. Looking back, my Mom was right and it was pretty damn cool. 
 
 ##### Drumming Demo to Illustrate How Much Easier Something Can Be When Somebody Shows You a Technique
 
