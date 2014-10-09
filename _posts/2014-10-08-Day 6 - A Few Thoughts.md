@@ -17,6 +17,8 @@ Loved Ramsey's class today. Best of all, we saw how C and javascript could be co
 
 Amit challenged us to drum a 2-beat with one hand and a 3-beat with the other. For many, it was hard to do. Then he showed us a technique of just slowing it down and thinking of it as "a beat together, then a bum-bam-bum with the two hands, and then another beat together." Then, practice it and speed it up. It wasn't about trying harder, but changing how you were learning it. This was a metaphor for the value of sitting with other people to see how they are doing what they are doing, and being able to get/give tips. 
 
+In other words, sometimes a little help from somebody who knows what they're doing goes a long way.
+
 ##### It's Hard to Know What Will Change the World When It's First Written
 
 Amazing that the first computer program and the idea that using machines to manipulate numbers could be used for music and other non-numeric things was written as an author's note at the end of a translation of a lecture. 
