@@ -7,6 +7,7 @@ October 1st is day 1 of [SFPC](sfpc.io). I'll be spending the next 10 weeks in t
 
 ![SFPC is:](https://lh6.googleusercontent.com/-qGagcnQQfQg/VDSxBUabM4I/AAAAAAAAYX4/ioiUO4L8Pjk/w782-h326-no/Screen%2BShot%2B2014-10-07%2Bat%2B11.34.47%2BPM.png)
 
+
 Activities on day 1 included some introductions, writing down as many questions as possible about the next 10 weeks, examples of work that Zach considers poetic computation, and a game of "human fax machine."  
 
 ##### The Poetry in Poetic Computation
