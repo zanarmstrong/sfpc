@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Small Thoughts from the Day
+title: Day 6: Many Thoughts
 ---
 
 ##### There Really Is Stuff Between Javascript and Binary!
