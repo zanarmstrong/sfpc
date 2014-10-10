@@ -9,4 +9,4 @@ The schools that I've most loved being a part of, A Growing Place, The College S
 
 If I were to found a school someday it would be on this central principle: that **we should all be teachers and all be learners**.  And, to keep finding ways to change who is taking each role. 
 
-So, it was nice to hear Amit reinforce this idea in his first class tonight. From his personal experience, he's found that it is "better to learn when you are teaching and teach when you are learning." I agree fully.  
+So, it was nice to hear Amit reinforce this idea in his first class tonight. From his personal experience, he's found that it is *better to learn when you are teaching and teach when you are learning.* I agree fully.  
