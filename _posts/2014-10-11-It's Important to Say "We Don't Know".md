@@ -19,10 +19,13 @@ But, his point isn’t to lament the paths not taken. Rather, he wants to remind
 #####It's good to not know what you're doing 
 This talk is a call for us to be fertile again. In other words, to be ok with saying “we don’t know” because “most dangerous thought that you can have as a creative person is to think that you know what you’re doing. Once you think that you know what you’re doing, you stop looking around for other ways of doing things and you stop being able to see other ways of doing things.” 
 
-#####It's good to learn from what other's have done
-To me it also seems important to understand what constraints might have made something infeasible in it's own time, but feasible now. What kept some of these technologies from growing? Are those same constraints in existance now? Can we recombine ideas, both old and new, in new ways to do something differently? Better? Doing this requires a balance of respect for what's been done in the past along with the creativity to create new things too. Sometimes it's better to build on the past than to write your own. But, sometimes being able to write your own is important for exploring too. 
+#####Understand constraints and assumptions
+To me it also seems important to understand what constraints might have made something infeasible in it's own time, but feasible now. What kept some of these technologies from growing? Are those same constraints in existence now? Can we recombine ideas, both old and new, in new ways to do something differently? Better? 
 
-It reminds me of when I studied photography and was confused by why we were being asked to look at hundreds, or thousands, of past works. Couldn't I just go do something unique? And, wouldn't I just be copying? Over the course of the semester I came to realize that if I didn't understand the artistic context, I would likely just go make photographs that were similar to the first photographs that most people made as they started out. But, by understanding ideas that others had played with, I could better understand how to play and explore the medium and eventually create much more interesting and more unique work.
+Doing this requires a balance of respect for what's been done in the past along with the creativity to create new things too. Sometimes it's better to build on the past than to write your own. But, sometimes being able to write your own is important for exploring too. 
+
+#####It's good to learn from what other's have done
+It reminds me of when I studied photography and was confused by why we were being asked to look at hundreds, or thousands, of past works. Why couldn't I just go do something new? And, wouldn't I just be copying if I was influenced by these other works? Over the course of the semester I came to realize that if I didn't understand the artistic context, I would likely just go make photographs that were similar to the first photographs that most people made as they started out. But, by understanding ideas that others had played with, I could better understand how to play and explore the medium and eventually create much more interesting and more unique work.
 
 #####Read the notes 
 The video is well documented, and many of the footnotes and background work is quite interesting too.
