@@ -7,10 +7,12 @@ This weekend I visited the [Robotic Church](http://amorphicrobotworks.org/works/
 
 
 ![Robotic Church](http://amorphicrobotworks.org/works/theroboticchurch/images/theroboticchurch.jpg)
+Robotic Church with Robots
 
 The Robotic Church was quite fantastic. Over 40 robots are animated during a 45 minute show that includes music and movement. The technology is based on pneumatics and each show is different. It was amazing how much personality the robots seemed to have based on their shape and actions. The space itself, the former Norwegian Seaman's Church is also a beautiful space. If you do swing by Redhook, the bakery Baked is also quite tasty and has yummy hot chocolate which is perfect on a crisp fall day. 
 
 ![beautiful space](https://lh4.googleusercontent.com/-TbGGdIFduLE/VDsO0I0t-8I/AAAAAAAAYl8/_i-g-zAEPBU/w1103-h621-no/IMG_20141012_174927864_HDR.jpg)
+Pioneer Works main space, seen from balcony.
 
 Pioneer Works is a beautiful creative space that is also in Redhook. During their open studios, I enjoyed exploring and taking lots of photographs of the space and some of the art as well. 
 
