@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-##### More information
+##### Projects
 
-[Resume](http://bit.ly/ZQE66V)
+**D3 Blocks**
+[D3 Blocks](http://bl.ocks.org/zanarmstrong)
+
+**New Zealand Recommendations**
+[NZ](newzealand.zanarmstrong.com)
+
 
 ##### Contact me
 
