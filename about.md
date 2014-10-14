@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Projects
 
-*[**Billion Second Birthday**](http://billionseconds.zanarmstrong.com/)
+* [**Billion Second Birthday**](http://billionseconds.zanarmstrong.com/)
 
 [**NZ Recommendations**](newzealand.zanarmstrong.com)
 
