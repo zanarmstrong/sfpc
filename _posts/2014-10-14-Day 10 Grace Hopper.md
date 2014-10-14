@@ -17,9 +17,9 @@ In each one, try and make your code as short as possible!
 
 
 Goal #1: Write my name (Zan)
--[--->+<]>+++++.>-[--->+<]>++++++++++++.>-[--->+<]>+++++++++++++++++++++++++.
+    -[--->+<]>+++++.>-[--->+<]>++++++++++++.>-[--->+<]>+++++++++++++++++++++++++.
 or
--[--->+<]>+++++.+++++++.+++++++++++++.
+    -[--->+<]>+++++.+++++++.+++++++++++++.
 
 I can even write ZanArmstrong, although I've never before appreciated how so many of the letters in my last name are close to each other in the alphabet. 
 -[--->+<]>+++++.+++++++.+++++++++++++.>----[--->+<]>-------------------.<<++++.-----.++++++.+.--.---.-.-------.
