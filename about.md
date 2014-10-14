@@ -14,10 +14,6 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Billion Second Birthday](http://billionseconds.zanarmstrong.com/)
 
-Find out when your billionth second birthday will be, and how many seconds old you are!
-
-A thank you to my Dad for finding out my billionth second birthday and to my boyfriend for remembering to celebrate it, which sparked the idea for this project.  
-
 [NZ Recommendations](newzealand.zanarmstrong.com)
 
 #### Smaller Explorations
