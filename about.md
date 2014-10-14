@@ -7,7 +7,7 @@ permalink: /about/
 ### Data Viz Research
 
 [**Visualizing Simpson's Paradox and Mix Effects**](http://research.google.com/pubs/pub42901.html)
-Abstract: We discuss how “mix effects” can surprise users of visualizations and potentially lead them to incorrect conclusions. This statistical issue (also known as “omitted variable bias” or, in extreme cases, as “Simpson’s paradox”) is widespread and can affect any visualization in which the quantity of interest is an aggregated value such as a weighted sum or average. Our first contribution is to document how mix effects can be a serious issue for visualizations, and we analyze how mix effects can cause problems in a variety of popular visualization techniques, from bar charts to treemaps. Our second contribution is a new technique, the “comet chart,” that is meant to ameliorate some of these issues. 
+This work will presented at InfoVis 2014 in Paris in November and published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
 ### Projects
 
