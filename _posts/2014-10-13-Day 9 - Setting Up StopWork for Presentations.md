@@ -9,4 +9,4 @@ I wanted to use it to create a slideshow of the websites we're referencing durin
 
 Note that there is an export option if you want to share it as a html file with js, rather than simply run/present locally. 
 
-A draft of the slideshow is [here](bl.ocks.org/zanarmstrong/raw/f9bb3f69a1faefa21ada).
+A draft of the slideshow is [here](http://bl.ocks.org/zanarmstrong/raw/f9bb3f69a1faefa21ada).
