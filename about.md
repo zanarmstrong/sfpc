@@ -6,8 +6,8 @@ permalink: /about/
 
 ##### Projects
 
-**D3 Blocks**
-[D3 Blocks](http://bl.ocks.org/zanarmstrong)
+
+[**D3 Blocks**](http://bl.ocks.org/zanarmstrong)
 
 **New Zealand Recommendations**
 [NZ](newzealand.zanarmstrong.com)
