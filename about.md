@@ -30,7 +30,9 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Other Writing](http://zanstrong.wordpress.com/)
 
-#### [Resume](http://bit.ly/1v9Rwq8)
+#### Experience
+
+[Resume](http://bit.ly/1v9Rwq8)
 
 ### Contact me
 
