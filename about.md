@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+## I'm Zan.
+
+
+
 ## Work
 
 ### Data Viz Research
@@ -36,6 +40,6 @@ A thank you to my Dad for finding out my billionth second birthday and to my boy
 
 [**Other Writing**](http://zanstrong.wordpress.com/)
 
-#### Contact me
+## Contact me
 
 [zanarmstrong.blog@gmail.com](mailto:zanarmstrong.blog@gmail.com)
