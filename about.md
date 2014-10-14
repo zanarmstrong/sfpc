@@ -33,3 +33,7 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 ### Experience
 
 [Resume](http://bit.ly/1v9Rwq8)
+
+### Email me
+
+[zan.armstrong.blog@gmail.com](zan.armstrong.blog@gmail.com)
