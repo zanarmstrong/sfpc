@@ -12,7 +12,7 @@ I was born in St. Louis, studied at Williams College, directed the outdoors prog
 
 #### Data Viz Research
 
-[**Visualizing Simpson's Paradox and Mix Effects**](http://research.google.com/pubs/pub42901.html)
+[Visualizing Simpson's Paradox and Mix Effects](http://research.google.com/pubs/pub42901.html)
 
 This work will presented at InfoVis 2014 in Paris in November and published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
