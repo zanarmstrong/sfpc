@@ -36,4 +36,4 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 ### Email me
 
-[zan.armstrong.blog@gmail.com](zan.armstrong.blog@gmail.com)
+[zan.armstrong.blog@gmail.com](mailto:zan.armstrong.blog@gmail.com)
