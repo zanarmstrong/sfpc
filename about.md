@@ -4,18 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+I'm Zan.
 
+I was born in St. Louis, studied at Williams College, directed the outdoors program at Double H camp, taught math at Chewonki Semester School in Maine, ran around the forests of Sweden while studying bioinformatics, analyzed data and  forecasted revenue at Google, developed a new charting style to visualize Simpson's paradox, and am now studying at the School for Poetic Computation.
 
-## Work
+### Work
 
-### Data Viz Research
+#### Data Viz Research
 
 [**Visualizing Simpson's Paradox and Mix Effects**](http://research.google.com/pubs/pub42901.html)
 
 This work will presented at InfoVis 2014 in Paris in November and published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
-### Projects
+#### Projects
 
 [**Billion Second Birthday**](http://billionseconds.zanarmstrong.com/)
 
@@ -25,7 +26,7 @@ A thank you to my Dad for finding out my billionth second birthday and to my boy
 
 [**NZ Recommendations**](newzealand.zanarmstrong.com)
 
-### Smaller Explorations
+#### Smaller Explorations
 
 [**D3 Blocks**](http://bl.ocks.org/zanarmstrong)
 
@@ -33,12 +34,12 @@ A thank you to my Dad for finding out my billionth second birthday and to my boy
 
 [**Looks Like Rain**](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
 
-### Writing
+#### Writing
 
 [**Blog during School for Poetic Computation**](http://sfpc.zanarmstrong.com/)
 
 [**Other Writing**](http://zanstrong.wordpress.com/)
 
-#### Contact me
+### Contact me
 
 [zanarmstrong.blog@gmail.com](mailto:zanarmstrong.blog@gmail.com)
