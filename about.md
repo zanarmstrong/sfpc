@@ -14,27 +14,27 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 #### Projects
 
-[**Billion Second Birthday**](http://billionseconds.zanarmstrong.com/)
+[Billion Second Birthday](http://billionseconds.zanarmstrong.com/)
 
 Find out when your billionth second birthday will be, and how many seconds old you are!
 
 A thank you to my Dad for finding out my billionth second birthday and to my boyfriend for remembering to celebrate it, which sparked the idea for this project.  
 
-[**NZ Recommendations**](newzealand.zanarmstrong.com)
+[NZ Recommendations](newzealand.zanarmstrong.com)
 
 #### Smaller Explorations
 
-[**D3 Blocks**](http://bl.ocks.org/zanarmstrong)
+[D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
-[**Adding Waves**](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
+[Adding Waves](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
 
-[**Looks Like Rain**](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
+[Looks Like Rain](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
 
 #### Writing
 
-[**Blog during School for Poetic Computation**](http://sfpc.zanarmstrong.com/)
+[Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
 
-[**Other Writing**](http://zanstrong.wordpress.com/)
+[Other Writing](http://zanstrong.wordpress.com/)
 
 ### Contact me
 
