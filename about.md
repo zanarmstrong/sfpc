@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## Work
+
 ### Data Viz Research
 
 [**Visualizing Simpson's Paradox and Mix Effects**](http://research.google.com/pubs/pub42901.html)
