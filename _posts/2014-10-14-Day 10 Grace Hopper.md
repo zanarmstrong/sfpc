@@ -56,3 +56,7 @@ It would be quite nice to have a way to get out of a loop without having to keep
 At this point, if I were to continue, I think I'd rather work on writing a script to generate the Brainfuck code than trying to write the code itself.
 
 All in all, **this experience makes me really appreciate Grace Hopper's insight that code would be much better if the command language was relatively human readable!**
+
+*addendum* [This site](http://fatiherikli.github.io/brainfuck-visualizer/) offers a visualizer so you can see what's in memory at a given time. And, a friend introduced me to a construct for creating essentially a "copying" function. In this case you have an "a" at the end of the first two paragraphs. The following loop copies that "a" into the next 10 slots of memory. 
+
+    -[--->+<]>+++++.+++++++.[>+>+>+>+>+>+>+>+>+>+<<<<<<<<<<-]>.>.
