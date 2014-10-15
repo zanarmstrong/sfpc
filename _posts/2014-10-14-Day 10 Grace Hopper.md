@@ -3,7 +3,7 @@ layout: post
 title: Day 10 - Grace Hopper was Right
 ---
 
-For Ramsey's class on programming languages, we were asked to play around with the language [Brainfuck](http://copy.sh/brainfuck/). As described on [Wikipedia](http://en.wikipedia.org/wiki/Brainfuck), Brainfuck has only 8 commands which are represented with simple symbols. 
+For Ramsey's class on programming languages, we were asked to play around with the language [Brainfuck](http://copy.sh/brainfuck/). As described on [Wikipedia](http://en.wikipedia.org/wiki/Brainfuck), Brainfuck has only 8 commands which are represented with simple symbols. There is a concept of loops, but you only escape the loop when the byte your pointer is pointing at is equal to 0. 
 
 Goals included:
 
