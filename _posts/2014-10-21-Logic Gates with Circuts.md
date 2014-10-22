@@ -3,7 +3,7 @@ layout: post
 title: Logic Gates w/ Circuits
 ---
 
-Homework was to use circuits to construct the 5 fundamental logic gates: NOT, AND, OR, NOR (Not Or), NAND (Not And).  I also added the trivial Buffer case as well. 
+Homework was to use circuits to construct the 5 fundamental logic gates: NOT, AND, OR, NOR (Not Or), NAND (Not And).  I also added the trivial Buffer case as well. Yay electricity!  And logic!  And physics!
 
 Lesson learned: if nothing seems to be working, check to see if your battery is still connected or if you have to redo the soder :). 
 
