@@ -1,0 +1,82 @@
+<!-- This is my solution to the homework described here: http://radicalcomputerscience.tumblr.com/post/100556468616/grammar-homework-1 -->
+
+<meta charset="utf-8">
+
+<script src="js/jquery.js"></script>
+<script src="js/jqconsole.js"></script>
+<script src="js/sugar.js"></script>
+<script src="js/peg.js"></script>
+<script src="js/plt.js"></script>
+
+<script type="text/javascript">
+  // uncomment next line to enable refresh
+  // PLT.refresh = true
+
+  // write helper functions and semantics here
+</script>
+
+<title>Language</title>
+
+<grammar>
+	start = literal
+	literal = l:(number / bool / quote / operator / paren) space { return l }
+
+	bool = b:(true/false) {return b}
+
+	true = w:'true' / 'yes' / 'TRUE' / 'True' / 'On' / 'ON' / 'on' {return new Boolean(true)}
+	false = w:'false' / 'no' / 'FALSE' / 'False' / 'Off' / 'OFF' / 'off' {return new Boolean(false)}
+
+	quote = q:'"' w:word+ e:'"' { return w.join('').trim() }
+	word = w:[a-zA-Z] k:space? {return (w + k)}
+
+	operator = n:(plus / minus / times) {return n}
+	plus = '+' space k:eval space j:eval { return k+j }
+	minus = '-' space k:eval space j:eval { return k-j }
+	times = '*' space k:eval space j:eval { return k*j }
+
+	eval = m:(number / paren) {return m}
+	paren = '(' k:operator ')' {return k}
+
+	number = n:(float_between_01 / float / integer) { return n }
+	float = s:'-'? n:digit+ '.' m:digit+ { return parseFloat( s + n.join('') + "." + m.join('') )}
+	float_between_01 = s:'-'? '.' n:digit+ { return parseFloat( s + "0." + n.join('') )}
+	integer = s:'-'? n:digit+ { return parseInt(s + n.join('')) }
+	digit = [0123456789]
+
+	space = [ ]* / !. { return undefined }
+</grammar>
+
+<h3>Numbers</h3>
+<p>These should parse into JavaScript numbers.
+  Use <a href="http://www.w3schools.com/jsref/jsref_parseint.asp">parseInt</a>
+  and <a href="http://www.w3schools.com/jsref/jsref_parsefloat.asp">parseFloat</a> as needed.</p>
+<code>45</code>
+<code>83.2</code>
+<code>-7</code>
+<code>-92.8</code>
+
+<h3>Text</h3>
+<p>These should parse into JavaScript strings.
+  Use <a href="http://www.w3schools.com/jsref/jsref_join.asp">join</a> as needed.</p>
+<code>"Hello"</code>
+<code>"Hello World"</code>
+
+<h3>Booleans</h3>
+<p>These should parse into JavaScript booleans, true or false</p>
+<code>true</code>
+<code>false</code>
+<code>yes</code>
+<code>no</code>
+<code>on</code>
+<code>off</code>
+
+<h3>Extra – Operators</h3>
+<code>+ 5 6</code>
+<code>* 5 6</code>
+<code>- 5 6</code>
+
+<h3>Extra – Nesting</h3>
+<code>(- 10 9)</code>
+<code>(+ 7 (- 10 9))</code>
+<code>(+ (+ 20 5) (+ 7 2))</code>
+<code>(+ (+ 20 5) (+ 7 (+ (+ 20 5) (+ 7 (+ (+ 20 5) (+ 7 (+ (+ 20 5) (+ 7 2))))))))</code>
