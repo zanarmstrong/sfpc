@@ -7,6 +7,8 @@ Homework was to use circuits to construct the 5 fundamental logic gates: NOT, AN
 
 Lesson learned: if nothing seems to be working, check to see if your battery is still connected or if you have to redo the soder :). 
 
+Also, why don't breadboards make it visibly more obvious which holes are connected to each other. For reference, the sides are connected the long way which is sort of marked. But, they don't connect through the halfway point. And, the 5-across rows are connected horizontally. This could be made more obvious with design. But, I guess you just learn it quickly and then know it forever.
+
 
 Buffer
 
