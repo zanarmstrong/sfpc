@@ -14,13 +14,13 @@ I studied math at Williams College, directed the outdoors program at Double H ca
 
 This work will presented at InfoVis 2014 in Paris in November and published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
-### Projects
+## Projects
 
 [Billion Second Birthday](http://billionseconds.zanarmstrong.com/)
 
 [NZ Recommendations](newzealand.zanarmstrong.com)
 
-### Smaller Explorations
+## Smaller Explorations
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
@@ -28,16 +28,16 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Looks Like Rain](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
 
-### Writing
+## Writing
 
 [Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
 
 [Other Writing](http://zanstrong.wordpress.com/)
 
-### Experience
+## Experience
 
 Contact me to request a copy of my resume.
 
-### Email me
+## Contact
 
-[zan.armstrong.blog@gmail.com](mailto:zan.armstrong.blog@gmail.com)
+Reach out to me using the links below. Thanks!
