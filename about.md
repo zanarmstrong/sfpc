@@ -20,7 +20,7 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [NZ Recommendations](newzealand.zanarmstrong.com)
 
-## Smaller Explorations
+## Sketches & Explorations
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
