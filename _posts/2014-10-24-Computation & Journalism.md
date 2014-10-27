@@ -3,7 +3,7 @@ layout: post
 title: Computation & Journalism Symposium
 ---
 
-Today I attended Day 1 of the Computation & Journalism Symposium at Columbia's Brown Institute for Media Innovation. 
+Today I attended Day 1 of the [Computation & Journalism Symposium at Columbia's Brown Institute for Media Innovation](http://computation-and-journalism.brown.columbia.edu/). 
 
 Highlights included: 
 
@@ -23,3 +23,5 @@ Highlights included:
 - "Stream tools" out of the NYT R&D lab looks pretty cool. I like that you can see "under the hood" in real time. 
 
 - One journalist was calling in from a far-away place, and might have had to drop off the call if there were missles. It was an impressive reminder of the heroism and honor of journalism, and made it feel very real. 
+
+- Want to be quotable? Use unique words in common sentance structures, according to Jon Kleinberg.
