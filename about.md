@@ -6,9 +6,9 @@ permalink: /about/
 
 I analyze and visualize data. More generally, I am curious about how things work, exploring information, ideas, and places, and sharing the experience of discovery with others. 
 
-I studied at Williams College, directed the outdoors program at Double H camp, taught math at Chewonki Semester School in Maine, raced through the forests of Sweden orienteering, analyzed data and forecasted revenue at Google, developed a new charting style to visualize Simpson's paradox, and am now studying at the School for Poetic Computation.
+I studied math at Williams College, directed the outdoors program at Double H camp, taught high school juniors at Chewonki Semester School in Maine, raced through the forests of Sweden orienteering, analyzed data and forecasted revenue at Google, developed a new charting style to visualize Simpson's paradox, and am now studying at the School for Poetic Computation.
 
-### Data Viz Research
+## Data Viz Research
 
 [Visualizing Simpson's Paradox and Mix Effects](http://research.google.com/pubs/pub42901.html)
 
