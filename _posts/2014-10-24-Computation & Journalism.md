@@ -8,7 +8,7 @@ Today I attended Day 1 of the Computation & Journalism Symposium at Columbia's B
 Highlights included: 
 
 
-- "Many people were exposed to rumor.  Many exposed to the correction.  Few were exposed to both." Paul Resnik on (RumorLens)[http://compute-cuj.org/cj-2014/cj2014_session2_paper3.pdf] and following rumors/rebuttals on Twitter.
+- "Many people were exposed to rumor.  Many exposed to the correction.  Few were exposed to both." Paul Resnik on [RumorLens](http://compute-cuj.org/cj-2014/cj2014_session2_paper3.pdf) and following rumors/rebuttals on Twitter.
 
 
 - Loved [iCheck/uCheck fact checking project](http://compute-cuj.org/cj-2014/cj2014_session2_paper1.pdf) out of Duke, University of Texas at Arlington, and Google Research. In particular, I liked the idea of slightly permuting a statement to see if still holds: a sort of "robustness" of a fact. 
@@ -21,3 +21,5 @@ Highlights included:
 
 
 - "Stream tools" out of the NYT R&D lab looks pretty cool. I like that you can see "under the hood" in real time. 
+
+- One journalist was calling in from a far-away place, and might have had to drop off the call if there were missles. It was an impressive reminder of the heroism and honor of journalism, and made it feel very real. 
