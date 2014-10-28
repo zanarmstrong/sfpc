@@ -20,7 +20,7 @@ footer-links:
   email: zanarmstrong.blog@gmail.com
   github: zanarmstrong
   linkedin: zanstrong
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: sfpc.zanarmstrong.com/feed.xml
   twitter: zanstrong
 
 # Your disqus shortname, entering this will enable commenting on posts
