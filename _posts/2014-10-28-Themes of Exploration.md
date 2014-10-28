@@ -9,6 +9,6 @@ In that vein, the inspiring questions today for creating generative visuals are:
 
 * What visual aspects can you play with? Position? Size? Color? Boundary of another object? And many more... 
 
-* What are your seeds? Variables? A drawing? Movement? Time? A photograph? Sounds? ??? 
+* What are your seeds? Variables? Mouse position? A drawing? Movement? Time? A photograph? Sounds? ??? 
 
 And, in a slightly different vein, how can you play with the edge of what we can perceive as some (an image, etc) vs abstract?
