@@ -264,6 +264,12 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  
+  // zan added
+  td, th {
+  	padding: 0.5rem;
+  	text-align: left;
+  }
 }
 
 .wrapper-footer {
@@ -276,12 +282,6 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-// zan added
-td, th {
-  padding: 0.5rem;
-  text-align: left;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
