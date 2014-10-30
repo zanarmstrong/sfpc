@@ -9,7 +9,7 @@ The goal is to be able to take two inputs, each either 'on' or 'off', which we c
 
 So, we want the following logic:  
 
-| Input A       | Input B       | Output 2cd digit | Output 1st digit |
+| Input A       |  Input B       |  Output 2cd digit |  Output 1st digit |
 | ------------- |:-------------:| -----:| ----:|
 | 0      | 0 | 0 | 0 |
 | 0     | 1      |   0| 1 |
