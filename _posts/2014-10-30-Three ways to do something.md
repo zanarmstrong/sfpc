@@ -11,6 +11,8 @@ Once I had it working, I showed it to Zach and he offered two others ways I coul
 
 I really liked this way of learning. It was good to attempt a brute force approach, followed up by actually coding up 2 different alternatives. It creates more depth in terms of understanding the space of possibilities. 
 
+As a method, I liked that the background color photo gives an interesting pallete. Beyond that, it was fun to play with juxtaposing meaning, possibly in a subtle way. This comes through more in drawings that are more dense, like the last one below. 
+
 Lots of fun to play with!
 
 ![](https://lh3.googleusercontent.com/-q-mbSwMS2Hs/VFMGUOvN--I/AAAAAAAAZCc/xqOxaSzqTSA/w1034-h542-no/Screen%2BShot%2B2014-10-29%2Bat%2B1.06.05%2BPM.png)
@@ -27,4 +29,4 @@ Lots of fun to play with!
 [Original New York skyline line drawing from Rod Pepper](http://dailydrawingdiary.com/manhattan-skyline/)
 ![drawing](http://dailydrawingdiary.com/wp-content/uploads/2012/06/NY-Skyline-small.jpg)
 
-The original color photos were mine. 
+The original color photos are my own. 
