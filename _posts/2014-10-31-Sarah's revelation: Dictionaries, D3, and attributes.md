@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarah's revelation about dictionaries, D3, and attributes
+title: Sarah's revelation: dictionaries, D3, and attributes
 ---
 
 Sarah told me today that instead of defining attributes in D3 like this: 
