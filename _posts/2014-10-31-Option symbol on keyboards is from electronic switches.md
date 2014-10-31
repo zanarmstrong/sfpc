@@ -9,3 +9,4 @@ Found out today that the "option" symbol ⌥ is a symbol for an electronic switc
 
 Worlds colliding.  Amazing. 
 
+Reference [here](http://www.quora.com/Computer-Keyboards/What-is-the-origin-of-the-Macs-option-key-symbol-%E2%8C%A5).
