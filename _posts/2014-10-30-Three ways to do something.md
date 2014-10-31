@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Three ways to do something
+---
 
 I am very excited to start learning Open Frameworks!
 
