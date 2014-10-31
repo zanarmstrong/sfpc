@@ -5,8 +5,7 @@ title: Sarah's revelation about dictionaries, D3, and attributes
 
 Sarah told me today that instead of defining attributes in D3 like this: 
 
-```
-var k = svg.selectAll(".squares")
+```var k = svg.selectAll(".squares")
            .data(setUpRandData())
            .enter()
            .append('rect')
@@ -22,8 +21,7 @@ k.attr("x", function(d) {
   .attr("class", 'squares')
 ```
 
-```
-// define attributes for rectangles using a dictionary
+```// define attributes for rectangles using a dictionary
 var squareAttr = {
 	"x": function(d) {return d.x * sideLength;},
 	"y": function(d) {return d.y * sideLength;},
