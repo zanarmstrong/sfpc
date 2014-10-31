@@ -35,4 +35,4 @@ The second challenge was to branch off an AND. I was inspired by my friend Andre
 
 The result is below, with the associated sketch on the right. 
 
-[Half Adder!](https://lh6.googleusercontent.com/-WtVmFeUdp8U/VEnIi3WnICI/AAAAAAAAY2g/KIkkg7ug4RI/w350-h621-no/IMG_20141023_160225531_HDR.jpg)
+(Half Adder!)[https://lh6.googleusercontent.com/-WtVmFeUdp8U/VEnIi3WnICI/AAAAAAAAY2g/KIkkg7ug4RI/w350-h621-no/IMG_20141023_160225531_HDR.jpg]
