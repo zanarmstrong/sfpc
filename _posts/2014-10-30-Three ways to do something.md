@@ -26,3 +26,5 @@ Lots of fun to play with!
 
 [Original New York skyline line drawing from Rod Pepper](http://dailydrawingdiary.com/manhattan-skyline/)
 ![drawing](http://dailydrawingdiary.com/wp-content/uploads/2012/06/NY-Skyline-small.jpg)
+
+The original color photos were mine. 
