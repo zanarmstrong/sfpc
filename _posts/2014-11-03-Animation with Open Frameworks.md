@@ -3,7 +3,7 @@ layout: post
 title: Animation with Open Frameworks
 ---
 
-In Zach's Open Frameworks class we're exploring animation. Here are two fun little examples I made. 
+In Zach's Open Frameworks class we're exploring animation. The first exercises are around using functions and elapsed time to describe position. Here are two little experiments I made.
 
 [Animation in black and white.](https://www.youtube.com/watch?v=t6U_gwPdeTc)
 
