@@ -22,6 +22,8 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [NZ Recommendations](newzealand.zanarmstrong.com)
 
+![](https://lh4.googleusercontent.com/RT47aDwjGHz4-x3_hmM1btsL-6kTpb7NiqPM1rUvckD_=w395-h207-p-no)
+
 ## Sketches & Explorations
 
 *D3/Javascript*
