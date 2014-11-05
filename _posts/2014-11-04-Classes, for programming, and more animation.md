@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classes (the programming type) and more animation
+title: Classes, for programming, and more animation
 ---
 
 I updated the animation from yesterday so that if I clicked I could add a new set of spinning triangles.  To do this I created a spiralObject class, created a vector for the multiple spiralObjects, and added spiralObjects to the vector on mouse click.  
