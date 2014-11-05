@@ -22,7 +22,7 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 ## Sketches & Explorations
 
-*In D3*
+*D3/Javascript*
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
@@ -30,7 +30,7 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Looks Like Rain](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
 
-*In Open Frameworks*
+*Open Frameworks/C++*
 
 [Animation with triangles](https://vimeo.com/110936580)
 
