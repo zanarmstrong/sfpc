@@ -18,6 +18,8 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Billion Second Birthday](http://billionseconds.zanarmstrong.com/)
 
+[image](https://lh5.googleusercontent.com/C5UDSBQE4A_UignFm7UgWMQkiVCW-A75NaC-qNaLFA2l=w390-h207-p-no)
+
 [NZ Recommendations](newzealand.zanarmstrong.com)
 
 ## Sketches & Explorations
