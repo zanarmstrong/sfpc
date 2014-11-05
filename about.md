@@ -16,11 +16,11 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 ## Projects
 
-[Billion Second Birthday](http://billionseconds.zanarmstrong.com/)
+[Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
 
 ![image](https://lh5.googleusercontent.com/C5UDSBQE4A_UignFm7UgWMQkiVCW-A75NaC-qNaLFA2l=w390-h207-p-no)
 
-[NZ Recommendations](newzealand.zanarmstrong.com)
+[New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
 
 ![](https://lh4.googleusercontent.com/RT47aDwjGHz4-x3_hmM1btsL-6kTpb7NiqPM1rUvckD_=w395-h207-p-no)
 
@@ -30,9 +30,17 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [D3 Blocks](http://bl.ocks.org/zanarmstrong)
 
+[Jittery Line](http://bl.ocks.org/zanarmstrong/raw/d189ee30a7fb01ca6850/)
+
 [Adding Waves](http://bl.ocks.org/zanarmstrong/raw/c9bb2842647140265d57/)
 
+[Comet Chart](http://bl.ocks.org/zanarmstrong/0f3f39deed0ee1653354)
+
 [Looks Like Rain](http://bl.ocks.org/zanarmstrong/raw/73ce430053eabd1b70fe/)
+
+[Adding Color to Zoomable Treemaps](http://bl.ocks.org/zanarmstrong/76d263bd36f312cb0f9f)
+
+[Formatting time tool for D3](http://bl.ocks.org/zanarmstrong/raw/ca0adb7e426c12c06a95/)
 
 *Open Frameworks/C++*
 
@@ -42,7 +50,7 @@ This work will presented at InfoVis 2014 in Paris in November and published in t
 
 [Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
 
-[Other Writing](http://zanstrong.wordpress.com/)
+[Earlier Blog](http://zanstrong.wordpress.com/)
 
 ## Experience
 
