@@ -264,6 +264,12 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  
+  // zan added
+  td, th {
+  	padding: 0.5rem;
+  	text-align: left;
+  }
 }
 
 .wrapper-footer {

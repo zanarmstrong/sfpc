@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Power of Examples
+---
+
+I've been thinking a lot in the past 1.5 years about the power of examples. This was originally sparked by Mike Bostock's 2013 Eyeo talk, described [here](http://bost.ocks.org/mike/example/). Since then I've been noticing how important examples are for sparking the imagination about what's possible and why something is worth investing in/learning. This could be anything from getting people to try flying trapeze to learning D3 or Open Frameworks. When developing a new tool or experience, good examples are important so that people understand what is possible. It's also valuable to see pieces of projects, like sketches, as well as full projects so you can see the building blocks or components that can be put together. 
+
+I especially like that the bl.ocks.org site encourages creating projects that are in sketch stage, or are just an example rather than fully worked out. It's helpful for playing with an idea, and exploring different aspects of it in small works rather than feeling like it's only useful if it's fully painted. Seems like it draws from the painting tradition of creating sketches of a work before doing the 
+
+I'm just starting to learn Open Frameworks, and was pleased to see examples on their [home page](http://www.openframeworks.cc/) and in the [intro](http://openframeworks.cc/tutorials/introduction/000_introduction.html). It makes it more exciting to dive in and persevere when you have an idea of what types of things might be possible. 

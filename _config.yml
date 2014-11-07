@@ -20,14 +20,14 @@ footer-links:
   email: zanarmstrong.blog@gmail.com
   github: zanarmstrong
   linkedin: zanstrong
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: sfpc.zanarmstrong.com/feed.xml
   twitter: zanstrong
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-55718708-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -43,7 +43,6 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
