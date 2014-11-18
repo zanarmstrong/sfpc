@@ -156,4 +156,4 @@ And, here it varies the brightness by varying the greyness.
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_Sj61nBYJxjG_p.232391_1416282556159_Screen%20Shot%202014-11-17%20at%2010.48.48%20PM.png)
 
-Talked to Zach about options for playing from here, and he suggested playing with noise functions and with using the first image to create a second image to expand the size of the stars. 
+Talked to Zach about options for playing from here, and he suggested playing with [noise functions](https://www.google.com/search?q=perlin+noise&client=firefox-a&hs=aXn&rls=org.mozilla:en-US:official&channel=fflb&source=lnms&tbm=isch&sa=X&ei=NnRrVPTPPLDLsASb0YHgBA&ved=0CAgQ_AUoAQ&biw=1440&bih=711) and with using the first image to create a second image to expand the size of the stars. 
