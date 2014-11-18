@@ -155,3 +155,5 @@ And, here it varies the brightness by varying the greyness.
 ```
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_Sj61nBYJxjG_p.232391_1416282556159_Screen%20Shot%202014-11-17%20at%2010.48.48%20PM.png)
+
+Talked to Zach about options for playing from here, and he suggested playing with noise functions and with using the first image to create a second image to expand the size of the stars. 
