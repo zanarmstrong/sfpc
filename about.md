@@ -50,7 +50,7 @@ I presented this research at InfoVis in Paris in November 2014 and it was publis
 
 [Blog during School for Poetic Computation](http://sfpc.zanarmstrong.com/)
 
-[Earlier Blog](http://zanstrong.wordpress.com/)
+[Blog, general](http://zanstrong.wordpress.com/)
 
 ## Experience
 
