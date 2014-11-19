@@ -12,13 +12,13 @@ I studied math at Williams College, directed the outdoors program at Double H ca
 
 [Visualizing Simpson's Paradox and Mix Effects](http://research.google.com/pubs/pub42901.html)
 
-This work will presented at InfoVis 2014 in Paris in November and published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
+I presented this research at InfoVis in Paris in November 2014 and it was published in the Proceedings of IEEE InfoVis 2014, IEEE. It's the result of my collaboration with Google's Data Visualization research group led by Martin Wattenberg and Fernanda Viégas. 
 
 ## Projects
 
 [Billion Second Birthday Website](http://billionseconds.zanarmstrong.com/)
 
-![image](https://lh5.googleusercontent.com/C5UDSBQE4A_UignFm7UgWMQkiVCW-A75NaC-qNaLFA2l=w390-h207-p-no)
+![](https://lh5.googleusercontent.com/C5UDSBQE4A_UignFm7UgWMQkiVCW-A75NaC-qNaLFA2l=w390-h207-p-no)
 
 [New Zealand Recommendations](http://newzealand.zanarmstrong.com/)
 
