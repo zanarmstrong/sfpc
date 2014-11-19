@@ -9,4 +9,4 @@ Coolest thing about Grey Code is that also form "a Hamiltonian cycle on a hyperc
 
 The Abstract Syntax Trees came up yesterday in Ramsey's class on "radical computer science" including creating programming languages as we're getting closer to building our own languages. It was fun to play with the concepts working on the homework today. It plays into Martin's guidance from last year that "any segment of code should be messy in only one way" by separating the parsing from the computation/execution/compiling.  
 
-Shaders just seem fun. Compact! Visual! Math! I started playing with the examples at ShaderToy today, but have a ways to go. 
+Shaders just seem fun. Efficient! Visual! Math! I started playing with the examples at ShaderToy today, but this feels like the first step of a journey
