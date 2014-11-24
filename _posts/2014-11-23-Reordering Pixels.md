@@ -21,9 +21,7 @@ It was tempting to try to figure out how to map the i<sup>th</sup> color in the 
 
 This code shows how I created and walked through the color list. 
 
-{% highlight c++ %} 
-    
-    vector <int> colors;
+{% highlight javascript %} vector <int> colors;
     
     for (int i = 0; i < width * height; i++){
         colors.push_back(pixOrig[i]);
@@ -48,8 +46,7 @@ This code shows how I created and walked through the color list.
     for (int i = 0; i < colors.size(); i++){
         ofVec2f k = coords[i];
         pixFinal[int((k.y + height/2) * width + (k.x + width/2))] = colors[i];
-    }
-{% endhighlight %}
+    }{% endhighlight %}
 
 And, this is the sorting function "orderPixels" which was used to sort the vector of ordered pairs of coordinates. 
 
