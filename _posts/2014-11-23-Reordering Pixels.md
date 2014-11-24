@@ -21,7 +21,7 @@ It was tempting to try to figure out how to map the i<sup>th</sup> color in the 
 
 This code shows how I created and walked through the color list. 
 
-```c++
+{% highlight c++ %} 
     
     vector <int> colors;
     
@@ -49,7 +49,7 @@ This code shows how I created and walked through the color list.
         ofVec2f k = coords[i];
         pixFinal[int((k.y + height/2) * width + (k.x + width/2))] = colors[i];
     }
-```
+{% endhighlight %}
 
 And, this is the sorting function "orderPixels" which was used to sort the vector of ordered pairs of coordinates. 
 
