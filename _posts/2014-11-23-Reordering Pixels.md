@@ -7,7 +7,7 @@ I played with reordering pixels in an image based on their brightness or color. 
 
 I started with black/white/grey images since ordering on a greyscale is straightforward while ordering color is not. 
 
-The first attempt reordered horizontally, as shown below. 
+The first attempt reordered horizontally, as shown below and in the code [here](https://github.com/zanarmstrong/open-frameworks-sketches/tree/master/reorderGreyPiexles). 
 
 ![](https://lh4.googleusercontent.com/-O-JjIy74UHo/VHEFjlAkUHI/AAAAAAAAaEA/R9rlqHvLiAo/w1118-h385-no/Screen%2BShot%2B2014-11-22%2Bat%2B4.51.47%2BPM.png)
 
@@ -90,6 +90,8 @@ bool ofApp::orderPixels(ofVec2f a, ofVec2f b){
 }
 ```
 
+The rest of the code is [here](https://github.com/zanarmstrong/open-frameworks-sketches/tree/master/reorderGreyPixelsCircle).
+
 The result is this: 
 
 ![](https://lh3.googleusercontent.com/-M-EDQtc9N24/VHJvfQjlXwI/AAAAAAAAaGc/s0VsfkpK-lc/w917-h457-no/Screen%2BShot%2B2014-11-23%2Bat%2B6.29.52%2BPM.png)
@@ -115,3 +117,4 @@ and
 ![](https://lh4.googleusercontent.com/-Lm6b0kdSHTQ/VHKoClwwCBI/AAAAAAAAaIc/bhYY4kQMYrI/w921-h462-no/Screen%2BShot%2B2014-11-23%2Bat%2B10.36.56%2BPM.png)
 
 Next up will be defining functions to order color. This harkens back in a way to the [color interpolation tests I did in D3/JS](http://bl.ocks.org/zanarmstrong/raw/c0f07275634de1f12769/) last year.  
+
