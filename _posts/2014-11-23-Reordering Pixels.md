@@ -21,7 +21,9 @@ It was tempting to try to figure out how to map the i<sup>th</sup> color in the 
 
 This code shows how I created and walked through the color list. 
 
-``` vector <int> colors;
+```
+    
+    vector <int> colors;
     
     for (int i = 0; i < width * height; i++){
         colors.push_back(pixOrig[i]);
@@ -51,7 +53,9 @@ This code shows how I created and walked through the color list.
 
 And, this is the sorting function "orderPixels" which was used to sort the vector of ordered pairs of coordinates. 
 
-``` bool ofApp::orderPixels(ofVec2f a, ofVec2f b){
+``` 
+
+    bool ofApp::orderPixels(ofVec2f a, ofVec2f b){
     // goal: return true if a > b
     
     // check if radius a is larger than radius b, using pythagorian theorem
