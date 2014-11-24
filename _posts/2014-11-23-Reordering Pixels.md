@@ -22,7 +22,7 @@ It was tempting to try to figure out how to map the i<sup>th</sup> color in the 
 This code shows how I created and walked through the color list. 
 
 ```
-    vector <int> colors;
+vector <int> colors;
     
     for (int i = 0; i < width * height; i++){
         colors.push_back(pixOrig[i]);
