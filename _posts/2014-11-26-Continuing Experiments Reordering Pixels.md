@@ -13,10 +13,6 @@ With color, but in the corner and without sorting the colors.
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_OleJIJ3ubk7_p.232391_1417040748281_Screen%20Shot%202014-11-24%20at%205.57.20%20PM.png)
 
-With color, and centered.  
-
-![](https://dchtm6r471mui.cloudfront.net/hackpad.com_OleJIJ3ubk7_p.232391_1417040766596_Screen%20Shot%202014-11-24%20at%206.36.12%20PM.png)
-
 With color, sorting by brightness. 
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_OleJIJ3ubk7_p.232391_1417040766596_Screen%20Shot%202014-11-24%20at%206.36.12%20PM.png)
