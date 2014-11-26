@@ -1,6 +1,6 @@
 ---
-
-
+layout: post
+title: Continuing Experimenting with Reordering Pixels
 ---
 
 Continuing from where I left off in the [Reordering Pixels post](http://sfpc.zanarmstrong.com/Reordering%20Pixels/), I've now added color!  
