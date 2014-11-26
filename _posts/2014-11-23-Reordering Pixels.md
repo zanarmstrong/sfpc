@@ -116,5 +116,5 @@ and
 
 ![](https://lh4.googleusercontent.com/-Lm6b0kdSHTQ/VHKoClwwCBI/AAAAAAAAaIc/bhYY4kQMYrI/w921-h462-no/Screen%2BShot%2B2014-11-23%2Bat%2B10.36.56%2BPM.png)
 
-Next up will be defining functions to order color. This harkens back in a way to the [color interpolation tests I did in D3/JS](http://bl.ocks.org/zanarmstrong/raw/c0f07275634de1f12769/) last year.  
+Next up will be [defining functions to order color](http://sfpc.zanarmstrong.com/Continuing%20Experiments%20Reordering%20Pixels/). This harkens back in a way to the [color interpolation tests I did in D3/JS](http://bl.ocks.org/zanarmstrong/raw/c0f07275634de1f12769/) last year.  
 
