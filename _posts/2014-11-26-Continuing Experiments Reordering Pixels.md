@@ -21,3 +21,4 @@ With color, sorting by brightness, in center.
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_OleJIJ3ubk7_p.232391_1417040789025_Screen%20Shot%202014-11-24%20at%206.40.19%20PM.png)
 
+If you have a Mac, you can use the app yourself.  Download it [here](https://www.dropbox.com/s/9mywudfre8vz3bw/loadImageIn.zip?dl=0).
