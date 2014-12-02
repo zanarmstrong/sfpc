@@ -7,6 +7,6 @@ Love that [Sarah's D3 scatterplot example](https://github.com/sarahgp/cuny-examp
 
 The relevant snippet is: 
 
-.on('click', function(d){
+```.on('click', function(d){
         window.open('https://www.google.com/search?site=imghp&tbm=isch&q=van+gogh+'+d.Title);
-});
+});```
