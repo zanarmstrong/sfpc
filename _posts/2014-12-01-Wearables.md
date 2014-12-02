@@ -5,9 +5,9 @@ title: Wearables Conversation with David Jay and Maddy Maxie
 
 I was super honored to welcome David Jay and Maddy Maxie to SFPC today for a conversation about wearable technology. 
 
-*Maddy Maxey is CTO at The Crated, a product development studio and consultancy focused on wearable tech, enhanced apparel and computational design.*
+Maddy Maxey is CTO at The Crated, a product development studio and consultancy focused on wearable tech, enhanced apparel and computational design.
 
-*David is co-leading a smartwatch team at the Samsung Accelerator, exploring ways to push the bounds of wearable interfaces.*
+David is co-leading a smartwatch team at the Samsung Accelerator, exploring ways to push the bounds of wearable interfaces.
 
 They're also both wonderful people, who take a thoughtful and nuanced approach to everything they do. I enjoy conversations with them and the questions they ask. So, it was so nice to have them come visit the school and be able to welcome them to our community.  
 
