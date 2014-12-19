@@ -24,7 +24,7 @@ int val = ofNoise( i / 50.0, j / 50.0) * ofNoise( i / 500.0, j / 500.0) * 2000 +
 
 
 Code snippet: 
-  int val = ofNoise( i / 200.0, j / 200.0) * ofNoise( i / 100.0, j / 100.0) * 2000 + 1;
+            int val = ofNoise( i / 200.0, j / 200.0) * ofNoise( i / 100.0, j / 100.0) * 2000 + 1;
             
                 if(rand() % val < 2) {
                         pixels[ (int)(j * w + i)] = 255 - rand() % 200;
