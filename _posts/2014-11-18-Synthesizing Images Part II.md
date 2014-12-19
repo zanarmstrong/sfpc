@@ -9,8 +9,9 @@ Continuing on the path of Sythesizing images, this time using noise functions to
 
 ![](https://dchtm6r471mui.cloudfront.net/hackpad.com_Sj61nBYJxjG_p.232391_1416330591308_Screen%20Shot%202014-11-18%20at%2012.09.17%20PM.png)
 
-.
-.
+* 
+
+*
 Code snippet: 
 
 ```
